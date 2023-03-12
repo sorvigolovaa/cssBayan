@@ -1,1 +1,1 @@
-https://sorvigolovaa.github.io/cssBayan/cssBayan/index.html
+https://sorvigolovaa.github.io/cssBayan/index.html
